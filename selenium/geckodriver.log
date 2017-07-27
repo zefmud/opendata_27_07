@@ -1,0 +1,20 @@
+1501147932956	geckodriver	INFO	geckodriver 0.18.0
+1501147932958	geckodriver	INFO	Listening on 127.0.0.1:43669
+1501147934082	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501147937076	Marionette	INFO	Listening on port 40217
+1501147937111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501147964043	geckodriver	INFO	geckodriver 0.18.0
+1501147964045	geckodriver	INFO	Listening on 127.0.0.1:57279
+1501147965160	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1501147966651	Marionette	INFO	Listening on port 39589
+1501147966686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://gisfile.com/js/leaflet.min.js, line 6: Error: Invalid LatLng object: (NaN, NaN)
+JavaScript error: http://gisfile.com/js/leaflet.min.js, line 6: Error: Invalid LatLng object: (NaN, NaN)
+JavaScript error: http://gisfile.com/js/leaflet.min.js, line 6: Error: Invalid LatLng object: (NaN, NaN)
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501150937558	Marionette	INFO	Ceased listening
